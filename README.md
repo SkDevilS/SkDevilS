@@ -1,3 +1,5 @@
+![logo](https://github.com/SkDevilS/SkDevilS/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Soham Karmakar</h1>
 <h3 align="center">A passionate Ethical Hacker & Python Developer from India</h3>
 
